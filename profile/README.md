@@ -1,6 +1,6 @@
 # Eyevinn Open Source Cloud
 
-[![Slack](http://slack.osaas.io/badge.svg)](https://join.slack.com/t/osaas-community/shared_invite/zt-310fvi6cz-N69SWyWx~ihV5iu60GXEpw)
+[![Slack](https://slack.osaas.io/badge.svg)](https://slack.osaas.io)
 
 We developed and launched Open Source Cloud to reduce the barrier to getting started with open source and at the same time contribute to a sustainable model for open source by giving back a share of the revenue to the creator.
 
