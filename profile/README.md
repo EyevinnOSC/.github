@@ -14,3 +14,8 @@ Building solutions based on open source requires that you build, deploy, maintai
 - [Our Blog](https://blog.osaas.io)
 
 Here you find tools and libraries for Eyevinn Open Source Cloud. 
+
+## Community & Support
+
+- [Community Forum](https://github.com/orgs/EyevinnOSC/discussions). Best for: help with building, discussion about best practices.
+- [Slack](https://slack.ossas.io). Best for: sharing your solutions and hanging out with the community.
