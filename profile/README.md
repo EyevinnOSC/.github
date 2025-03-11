@@ -12,6 +12,7 @@ Building solutions based on open source requires that you build, deploy, maintai
 - [User Documentation](https://docs.osaas.io/osaas.wiki/Home.html)
 - [API Documentation](https://docs.osaas.io/osaas-api-docs/docs/index.html)
 - [Our Blog](https://blog.osaas.io)
+- [Example solutions](https://github.com/EyevinnOSC/solutions)
 
 Here you find tools and libraries for Eyevinn Open Source Cloud. 
 
